@@ -1,0 +1,25 @@
+_repo: Poems-and-Tales-from-Romania_2538
+creator:
+  authors:
+  - agent_name: Sumanaru, Simona
+    gutenberg_agent_id: '957'
+    url: http://www.gutenberg.org/2009/agents/957
+  - agent_name: Hart, Michael
+    birthdate: 1947
+    deathdate: 2011
+    gutenberg_agent_id: '958'
+    url: http://www.gutenberg.org/2009/agents/958
+description: ''
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2538'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PG'
+- !lcsh 'Fiction'
+title: Poems and Tales from Romania
+url: http://www.gutenberg.org/ebooks/2538
